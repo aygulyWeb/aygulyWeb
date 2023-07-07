@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aygulyWeb
 - 👀 I’m interested in Front-end..
-- 🌱 I’m currently learning React...
+- 🌱 I’m currently looking for a job as a React developer
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 aygultilepova@gmail.com
 
 <!---
 aygulyWeb/aygulyWeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
