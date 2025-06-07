@@ -19,6 +19,10 @@ I'm currently looking for opportunities to grow as a QA engineer and contribute 
 
 [![STEPIK](https://img.shields.io/badge/-STEPIK-black)](https://stepik.org/cert/2879458)  
 
+## PROJECT
+
+[Задачи по SQL](https://docs.google.com/spreadsheets/d/1oLi9JdW9VaGhWaOXPdYrc8wgdCM2NBFsDkBpbDELcbQ/edit?usp=sharing)
+
 ## TOOLS 
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-orange)
 ![SWAGGER](https://img.shields.io/badge/-SWAGGER-85ea2d)
