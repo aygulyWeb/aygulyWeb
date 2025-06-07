@@ -15,6 +15,10 @@ I'm currently looking for opportunities to grow as a QA engineer and contribute 
 
 В настоящий момент ищу возможности развиваться в роли QA-инженера и вносить вклад в качество продукта в команде профессионалов.
 
+## COURSE
+
+[![STEPIK](https://img.shields.io/badge/-STEPIK-black)](https://stepik.org/cert/2879458)  
+
 ## TOOLS 
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-orange)
 ![SWAGGER](https://img.shields.io/badge/-SWAGGER-85ea2d)
